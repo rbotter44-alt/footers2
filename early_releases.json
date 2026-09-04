@@ -15,6 +15,13 @@
     },
     {
       "type": "movie",
+      "tmdbId": 1318335,
+      "title": "The Rays and Shadows",
+      "year": 2026,
+      "availableFrom": "2026-09-03"
+    },
+    {
+      "type": "movie",
       "tmdbId": 1386315,
       "title": "The Runner",
       "year": 2026,
