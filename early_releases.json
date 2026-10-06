@@ -26,6 +26,13 @@
       "title": "The Runner",
       "year": 2026,
       "availableFrom": "2026-09-03"
+    },
+    {
+      "type": "movie",
+      "tmdbId": 969681,
+      "title": "Spider-Man: Brand New Day",
+      "year": 2026,
+      "availableFrom": "2026-10-06"
     }
   ],
   "blocked": [
